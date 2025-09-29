@@ -16,8 +16,7 @@ Predicting spherical pixel depth from monocular $360^{\circ}$ indoor panoramas i
 
 
 
-## The Pretrained weights of our model will be released soon....
+### The Pretrained weights of our model will be released soon....
 
-## The training code of our model will be released after our paper be accpeted..
+### The training code of our model will be released after our paper be accpeted..
 
-## Acknowledge
